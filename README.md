@@ -2,11 +2,11 @@
 
 ## Overview
 
-Python-based TCP port scanner designed to test and demonstrate basic networking and socket programming.
+Python-based port scanner designed to test and demonstrate basic networking and socket programming.
 
 ## Features
 
-* Scans a target ip for a range of TCP ports
+* Scans a target ip for a range of TCP and UDP ports
 * Provides basic scan results
 
 ## Lessons Learned
@@ -21,9 +21,8 @@ Python-based TCP port scanner designed to test and demonstrate basic networking 
 
 This project will continue to be expanded with additional features such as: 
 
-- User designated scanning
+- Customizable scanning
 - Command line arguments
-- Cleaner output
 - Larger range of TCP and UDP ports
 
 ## Disclaimer
